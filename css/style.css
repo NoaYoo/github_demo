@@ -1,0 +1,17 @@
+body{
+	background-color:#6F3662;
+}
+
+div{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+}
+#circle{
+	border-radius: 25px;}
+	
+h1{
+	color:red;
+	font-size:40px;
+}
